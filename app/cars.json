@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "2015 Ford F-150",
+    "type": "Truck",
+    "year": 2015,
+    "image": "/car1.jpg",
+    "price": "$18,500"
+  },
+  {
+    "id": 2,
+    "name": "2016 Chevrolet Silverado",
+    "type": "Truck",
+    "year": 2016,
+    "image": "/car2.jpg",
+    "price": "$21,300"
+  },
+  {
+    "id": 3,
+    "name": "2017 Honda CR-V",
+    "type": "SUV",
+    "year": 2017,
+    "image": "/car3.jpg",
+    "price": "$19,900"
+  },
+  {
+    "id": 4,
+    "name": "2018 Toyota Camry",
+    "type": "Sedan",
+    "year": 2018,
+    "image": "/car4.jpg",
+    "price": "$17,400"
+  },
+  {
+    "id": 5,
+    "name": "2019 Nissan Rogue",
+    "type": "SUV",
+    "year": 2019,
+    "image": "/car5.jpg",
+    "price": "$20,800"
+  },
+  {
+    "id": 6,
+    "name": "2014 Dodge Ram 1500",
+    "type": "Truck",
+    "year": 2014,
+    "image": "/car6.jpg",
+    "price": "$16,250"
+  },
+  {
+    "id": 7,
+    "name": "2016 Jeep Grand Cherokee",
+    "type": "SUV",
+    "year": 2016,
+    "image": "/car7.jpg",
+    "price": "$18,900"
+  },
+  {
+    "id": 8,
+    "name": "2015 Hyundai Sonata",
+    "type": "Sedan",
+    "year": 2015,
+    "image": "/car8.jpg",
+    "price": "$14,100"
+  },
+  {
+    "id": 9,
+    "name": "2018 GMC Sierra",
+    "type": "Truck",
+    "year": 2018,
+    "image": "/car9.jpg",
+    "price": "$23,750"
+  },
+  {
+    "id": 10,
+    "name": "2020 Kia Sorento",
+    "type": "SUV",
+    "year": 2020,
+    "image": "/car10.jpg",
+    "price": "$22,000"
+  },
+  {
+    "id": 11,
+    "name": "2013 Chevrolet Malibu",
+    "type": "Sedan",
+    "year": 2013,
+    "image": "/car11.jpg",
+    "price": "$11,900"
+  },
+  {
+    "id": 12,
+    "name": "2017 Ford Explorer",
+    "type": "SUV",
+    "year": 2017,
+    "image": "/car12.jpg",
+    "price": "$19,400"
+  },
+  {
+    "id": 13,
+    "name": "2016 RAM 2500",
+    "type": "Truck",
+    "year": 2016,
+    "image": "/car13.jpg",
+    "price": "$24,800"
+  },
+  {
+    "id": 14,
+    "name": "2019 Toyota Corolla",
+    "type": "Sedan",
+    "year": 2019,
+    "image": "/car14.jpg",
+    "price": "$16,900"
+  },
+  {
+    "id": 15,
+    "name": "2017 Nissan Titan",
+    "type": "Truck",
+    "year": 2017,
+    "image": "/car15.jpg",
+    "price": "$21,000"
+  },
+  {
+    "id": 16,
+    "name": "2015 Buick Encore",
+    "type": "SUV",
+    "year": 2015,
+    "image": "/car16.jpg",
+    "price": "$15,300"
+  },
+  {
+    "id": 17,
+    "name": "2014 Ford Focus",
+    "type": "Sedan",
+    "year": 2014,
+    "image": "/car17.jpg",
+    "price": "$9,950"
+  },
+  {
+    "id": 18,
+    "name": "2018 Chevrolet Equinox",
+    "type": "SUV",
+    "year": 2018,
+    "image": "/car18.jpg",
+    "price": "$17,800"
+  },
+  {
+    "id": 19,
+    "name": "2015 Toyota Tacoma",
+    "type": "Truck",
+    "year": 2015,
+    "image": "/car19.jpg",
+    "price": "$20,100"
+  },
+  {
+    "id": 20,
+    "name": "2016 Honda Accord",
+    "type": "Sedan",
+    "year": 2016,
+    "image": "/car20.jpg",
+    "price": "$15,900"
+  },
+  {
+    "id": 21,
+    "name": "2013 Ford Escape",
+    "type": "SUV",
+    "year": 2013,
+    "image": "/car21.jpg",
+    "price": "$12,500"
+  },
+  {
+    "id": 22,
+    "name": "2019 Chevrolet Tahoe",
+    "type": "SUV",
+    "year": 2019,
+    "image": "/car22.jpg",
+    "price": "$27,200"
+  },
+  {
+    "id": 23,
+    "name": "2014 Toyota Tundra",
+    "type": "Truck",
+    "year": 2014,
+    "image": "/car23.jpg",
+    "price": "$19,000"
+  },
+  {
+    "id": 24,
+    "name": "2017 Subaru Outback",
+    "type": "SUV",
+    "year": 2017,
+    "image": "/car24.jpg",
+    "price": "$18,600"
+  },
+  {
+    "id": 25,
+    "name": "2016 Hyundai Elantra",
+    "type": "Sedan",
+    "year": 2016,
+    "image": "/car25.jpg",
+    "price": "$13,700"
+  },
+  {
+    "id": 26,
+    "name": "2015 Jeep Wrangler",
+    "type": "SUV",
+    "year": 2015,
+    "image": "/car26.jpg",
+    "price": "$20,400"
+  },
+  {
+    "id": 27,
+    "name": "2012 Chevrolet Silverado 1500",
+    "type": "Truck",
+    "year": 2012,
+    "image": "/car27.jpg",
+    "price": "$14,900"
+  },
+  {
+    "id": 28,
+    "name": "2018 Ford Fusion",
+    "type": "Sedan",
+    "year": 2018,
+    "image": "/car28.jpg",
+    "price": "$16,500"
+  },
+  {
+    "id": 29,
+    "name": "2014 Nissan Pathfinder",
+    "type": "SUV",
+    "year": 2014,
+    "image": "/car29.jpg",
+    "price": "$15,200"
+  },
+  {
+    "id": 30,
+    "name": "2016 RAM 1500",
+    "type": "Truck",
+    "year": 2016,
+    "image": "/car30.jpg",
+    "price": "$18,700"
+  },
+  {
+    "id": 31,
+    "name": "2017 Toyota Avalon",
+    "type": "Sedan",
+    "year": 2017,
+    "image": "/car31.jpg",
+    "price": "$19,300"
+  },
+  {
+    "id": 32,
+    "name": "2015 Chevrolet Traverse",
+    "type": "SUV",
+    "year": 2015,
+    "image": "/car32.jpg",
+    "price": "$16,800"
+  },
+  {
+    "id": 33,
+    "name": "2014 GMC Canyon",
+    "type": "Truck",
+    "year": 2014,
+    "image": "/car33.jpg",
+    "price": "$17,000"
+  },
+  {
+    "id": 34,
+    "name": "2019 Hyundai Santa Fe",
+    "type": "SUV",
+    "year": 2019,
+    "image": "/car34.jpg",
+    "price": "$22,500"
+  },
+  {
+    "id": 35,
+    "name": "2013 Chrysler 200",
+    "type": "Sedan",
+    "year": 2013,
+    "image": "/car35.jpg",
+    "price": "$10,800"
+  },
+  {
+    "id": 36,
+    "name": "2017 Ford Edge",
+    "type": "SUV",
+    "year": 2017,
+    "image": "/car36.jpg",
+    "price": "$19,000"
+  },
+  {
+    "id": 37,
+    "name": "2016 Toyota Highlander",
+    "type": "SUV",
+    "year": 2016,
+    "image": "/car37.jpg",
+    "price": "$21,000"
+  },
+  {
+    "id": 38,
+    "name": "2015 Honda Pilot",
+    "type": "SUV",
+    "year": 2015,
+    "image": "/car38.jpg",
+    "price": "$17,900"
+  },
+  {
+    "id": 39,
+    "name": "2018 Dodge Charger",
+    "type": "Sedan",
+    "year": 2018,
+    "image": "/car39.jpg",
+    "price": "$20,900"
+  },
+  {
+    "id": 40,
+    "name": "2017 Chevrolet Colorado",
+    "type": "Truck",
+    "year": 2017,
+    "image": "/car40.jpg",
+    "price": "$19,100"
+  },
+  {
+    "id": 41,
+    "name": "2014 Ford Taurus",
+    "type": "Sedan",
+    "year": 2014,
+    "image": "/car41.jpg",
+    "price": "$13,300"
+  },
+  {
+    "id": 42,
+    "name": "2016 Jeep Compass",
+    "type": "SUV",
+    "year": 2016,
+    "image": "/car42.jpg",
+    "price": "$15,500"
+  },
+  {
+    "id": 43,
+    "name": "2013 Toyota Sequoia",
+    "type": "SUV",
+    "year": 2013,
+    "image": "/car43.jpg",
+    "price": "$19,800"
+  },
+  {
+    "id": 44,
+    "name": "2015 Chevrolet Impala",
+    "type": "Sedan",
+    "year": 2015,
+    "image": "/car44.jpg",
+    "price": "$14,600"
+  },
+  {
+    "id": 45,
+    "name": "2017 Ford Ranger",
+    "type": "Truck",
+    "year": 2017,
+    "image": "/car45.jpg",
+    "price": "$22,300"
+  },
+  {
+    "id": 46,
+    "name": "2018 Nissan Altima",
+    "type": "Sedan",
+    "year": 2018,
+    "image": "/car46.jpg",
+    "price": "$17,200"
+  },
+  {
+    "id": 47,
+    "name": "2014 Jeep Patriot",
+    "type": "SUV",
+    "year": 2014,
+    "image": "/car47.jpg",
+    "price": "$13,800"
+  },
+  {
+    "id": 48,
+    "name": "2019 Toyota RAV4",
+    "type": "SUV",
+    "year": 2019,
+    "image": "/car48.jpg",
+    "price": "$23,400"
+  },
+  {
+    "id": 49,
+    "name": "2016 Mazda CX-5",
+    "type": "SUV",
+    "year": 2016,
+    "image": "/car49.jpg",
+    "price": "$18,000"
+  },
+  {
+    "id": 50,
+    "name": "2013 Hyundai Tucson",
+    "type": "SUV",
+    "year": 2013,
+    "image": "/car50.jpg",
+    "price": "$12,700"
+  }
+]
