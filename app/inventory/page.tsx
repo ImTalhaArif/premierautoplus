@@ -59,7 +59,7 @@ export default function Inventory() {
             placeholder="Search by make or model..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            className="border p-2 rounded-md w-64 text-black"
+            className="border p-2 rounded-md w-64 text-white"
           />
           <select
             value={makeFilter}
@@ -76,7 +76,7 @@ export default function Inventory() {
           <select
             value={priceFilter}
             onChange={(e) => setPriceFilter(e.target.value)}
-            className="border p-2 rounded-md text-black"
+            className="border p-2 rounded-md text-white"
           >
             <option value="">All Prices</option>
             <option value="lt10k">Under $10,000</option>
