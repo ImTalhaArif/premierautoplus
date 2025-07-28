@@ -48,12 +48,12 @@ export default function Inventory() {
     <div className="min-h-screen flex flex-col">
       <Header />
       <main className="flex-grow bg-black-50 px-6 py-10">
-        <h1 className="text-3xl font-bold mb-6 text-center text-black">
+        <h1 className="text-3xl font-bold mb-6 text-center text-white">
           Used Cars Inventory
         </h1>
 
         {/* Filters */}
-        <div className="flex flex-wrap gap-4 mb-8 justify-center">
+        <div className="flex flex-wrap gap-4 mb-8 justify-center text-white">
           <input
             type="text"
             placeholder="Search by make or model..."
@@ -64,7 +64,7 @@ export default function Inventory() {
           <select
             value={makeFilter}
             onChange={(e) => setMakeFilter(e.target.value)}
-            className="border p-2 rounded-md text-black"
+            className="border p-2 rounded-md text-white"
           >
             <option value="">All Makes</option>
             {uniqueMakes.map((make) => (
