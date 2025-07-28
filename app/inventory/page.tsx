@@ -16,7 +16,7 @@ return matchesQuery && matchesMake && matchesPrice;
 
 const uniqueMakes = [...new Set(cars.map((car) => car.make))];
 
-return ( <div className="min-h-screen flex flex-col"> <Header /> <main className="flex-grow bg-gray-50 px-6 py-10"> <h1 className="text-3xl font-bold mb-6 text-center">Used Cars Inventory</h1>
+return ( <div className="min-h-screen flex flex-col"> <Header /> <main className="flex-grow bg-black-50 px-6 py-10"> <h1 className="text-3xl font-bold mb-6 text-center">Used Cars Inventory</h1>
 
 {/* Filters */}
     <div className="flex flex-wrap gap-4 mb-8 justify-center">
