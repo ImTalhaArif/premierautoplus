@@ -12,7 +12,11 @@ export default function About() {
         <div className="grid md:grid-cols-3 gap-10 max-w-7xl mx-auto">
           {[
            
-            {
+             {
+              title: "Passion for Used Cars",
+              desc: "We specialize in reliable, inspected trucks, SUVs, and sedans you can trust.",
+              image: "/about2.jpg",
+            },{
               title: "Customer-First Approach",
               desc: "Our commitment is to your satisfaction — every step of the way.",
               image: "/about3.jpg",
