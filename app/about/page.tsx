@@ -13,7 +13,7 @@ export default function About() {
           {[
             {
               title: "Based in Montgomery, AL",
-              desc: "Serving the heart of Alabama with integrity, quality, and hometown pride.",
+              desc: "Serving the world with integrity, quality, and hassle free service.",
               image: "/about1.jpg",
             },
             {
