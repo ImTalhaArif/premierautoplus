@@ -6,7 +6,7 @@ export default function Contact() {
     <div className="min-h-screen flex flex-col">
       <Header />
       <main className="flex-grow bg-gray-50 py-12 px-6">
-        <h1 className="text-3xl font-bold text-center mb-6">Contact Us</h1>
+        <h1 className="text-3xl font-bold text-center mb-6 text-black">Contact Us</h1>
         <p className="text-center mb-10 text-gray-600">We’d love to hear from you. Drop us a message!</p>
 
         <form className="max-w-2xl mx-auto bg-white p-8 rounded-lg shadow space-y-6">
