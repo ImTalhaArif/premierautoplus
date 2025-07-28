@@ -130,7 +130,7 @@ export default function Inventory() {
                 &times;
               </button>
               <h3 className="text-xl font-semibold mb-4 text-black">
-                Place a bid for {modalCar.year} {modalCar.make}{" "}
+                Pay the price for {modalCar.year} {modalCar.make}{" "}
                 {modalCar.model}
               </h3>
               <form
