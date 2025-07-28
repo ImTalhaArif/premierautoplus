@@ -24,10 +24,17 @@ export default function Footer() {
           <p>Location: New York, USA</p>
         </div>
         <div>
-          <h4 className="font-semibold text-white mb-3">Follow Us</h4>
-          <p>Socials coming soon</p>
-        </div>
-      </div>
+  <h4 className="font-semibold text-white mb-3">Follow Us</h4>
+  <a
+    href="https://www.instagram.com/PremierAutoPlus"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center gap-2 text-white hover:underline"
+  >
+    <Instagram className="w-5 h-5" />
+    Instagram: PremierAutoPlus
+  </a>
+</div>
       <div className="text-center text-gray-500 mt-8 text-xs">
         &copy; {new Date().getFullYear()} Premier Auto Plus. All rights reserved.
       </div>
