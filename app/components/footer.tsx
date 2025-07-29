@@ -32,7 +32,7 @@ export default function Footer() {
           <h4 className="font-semibold text-white mb-3">Contact</h4>
           <p>Email: sales@premierautoplus.com</p>
           <p>Phone: +1 (334) 392-0605</p>
-          <p>Location: New York, USA</p>
+          <p>Location:USA</p>
         </div>
 
         <div>
