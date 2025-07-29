@@ -14,17 +14,17 @@ export default function Financing() {
             {
               title: "All Credit Welcome",
               desc: "We work with all credit types and help you get approved quickly.",
-              image: "/finance1.jpg",
+              image: "/about1.jpg",
             },
             {
               title: "Flexible Payments",
               desc: "Choose payment plans that suit your budget and income.",
-              image: "/finance2.jpg",
+              image: "/about2.jpg",
             },
             {
               title: "Low Interest Rates",
               desc: "Get competitive interest rates through our partnered banks.",
-              image: "/finance3.jpg",
+              image: "/about3.jpg",
             },
           ].map((item, idx) => (
             <div
