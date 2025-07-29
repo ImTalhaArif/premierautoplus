@@ -11,11 +11,7 @@ export default function Financing() {
         </h1>
         <div className="grid md:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
-            {
-              title: "All Credit Welcome",
-              desc: "We work with all credit types and help you get approved quickly.",
-              image: "/about1.jpg",
-            },
+           
             {
               title: "Flexible Payments",
               desc: "Choose payment plans that suit your budget and income.",
