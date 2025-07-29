@@ -69,7 +69,7 @@ export default function Header() {
           <Link href="/about" onClick={() => setMenuOpen(false)}>About Us</Link>
           <Link href="/contact" onClick={() => setMenuOpen(false)}>Contact</Link>
           <Link
-            href="/get-started"
+            href="/inventory"
             className="mt-4 bg-blue-700 text-white px-4 py-2 rounded-md text-center hover:bg-blue-800"
             onClick={() => setMenuOpen(false)}
           >
