@@ -24,7 +24,7 @@ export default function Header() {
 
         {/* CTA */}
         <Link
-          href="/get-started"
+          href="/inventory"
           className="hidden md:inline-block bg-blue-700 text-white px-4 py-2 rounded-md hover:bg-blue-800"
         >
           Get Started
