@@ -1,39 +1,39 @@
 [
   {
     "id": 1,
-    "make": "Ford",
-    "model": "F-150",
-    "type": "Truck",
-    "year": 2015,
-    "image": "/car1.jpg",
-    "price": 18500,
+    "make": "Toyota",
+    "model": "Camry TRD V6",
+    "type": "Sedan",
+    "year": 2021,
+    "image": "/camry1.jpg",
+    "price": 17500,
     "mileage": 75200,
-    "fuel": "Gasoline",
-    "color": "White"
+    "fuel": "Hybrid",
+    "color": "Black"
   },
   {
     "id": 2,
-    "make": "Chevrolet",
-    "model": "Silverado",
-    "type": "Truck",
-    "year": 2016,
-    "image": "/car2.jpg",
-    "price": 21300,
-    "mileage": 68800,
-    "fuel": "Diesel",
-    "color": "Black"
+    "make": "Toyota",
+    "model": "Camry TRD",
+    "type": "Sedan",
+    "year": 2021,
+    "image": "/camry2.jpg",
+    "price": 18999,
+    "mileage": 75200,
+    "fuel": "Hybrid",
+    "color": "White"
   },
   {
     "id": 3,
     "make": "Honda",
-    "model": "CR-V",
-    "type": "SUV",
-    "year": 2017,
-    "image": "/car3.jpg",
-    "price": 19900,
+    "model": "Accord TRG",
+    "type": "Sedan",
+    "year": 2021,
+    "image": "/accord1.jpg",
+    "price": 17999,
     "mileage": 60150,
-    "fuel": "Gasoline",
-    "color": "Blue"
+    "fuel": "Hybrid",
+    "color": "Gray"
   },
   {
     "id": 4,
